@@ -1,8 +1,10 @@
 # Data ke kybernetickým incidentům
 
-Tento repozitář obsahuje open data k kybernetickým bezpečnostním incidentům, které byly nahlášeny [Národnímu úřadu pro kybernetickou a informační bezpečnost](https://www.nukib.cz) dle § 8 zákona č. 181/2014 Sb. o kybernetické bezpečnosti.
+Tento repozitář obsahuje open data k kybernetickým bezpečnostním incidentům, které byly nahlášeny [Národnímu úřadu pro kybernetickou a informační bezpečnost](https://www.nukib.cz) (NÚKIB) dle § 8 zákona č. 181/2014 Sb. o kybernetické bezpečnosti.
 
-Měsíční přehledy jsou dostupné na https://www.nukib.cz/cs/infoservis/dokumenty-a-publikace/analyzy/.
+**[data.csv](data.csv)**
+
+Měsíční přehledy s podrobnějšími informacemi o incidentech jsou dostupné v sekci [Analýzy a Souhrnné zprávy](https://www.nukib.cz/cs/infoservis/dokumenty-a-publikace/analyzy/) ne webu NÚKIB.
 
 ## Popis dat
 
