@@ -4,7 +4,7 @@ Tento repozitář obsahuje open data k kybernetickým bezpečnostním incidentů
 
 **[data.csv](data.csv)**
 
-Měsíční přehledy s podrobnějšími informacemi o incidentech jsou dostupné v sekci [Analýzy a Souhrnné zprávy](https://www.nukib.cz/cs/infoservis/dokumenty-a-publikace/analyzy/) ne webu NÚKIB.
+Měsíční přehledy s podrobnějšími informacemi o incidentech jsou dostupné v sekci [Analýzy a Souhrnné zprávy](https://www.nukib.cz/cs/infoservis/dokumenty-a-publikace/analyzy/) na webu NÚKIB.
 
 ## Popis dat
 
