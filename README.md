@@ -10,7 +10,7 @@ Měsíční přehledy s podrobnějšími informacemi o incidentech jsou dostupn�
 
 ### Rok/měsíc
 
-Datum ve formátu YYYY-MM, kdy byl incident nalášen.
+Datum ve formátu YYYY-MM, kdy byl incident nahlášen.
 
 ### Klasifikace incidentu
 
