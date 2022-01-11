@@ -10,22 +10,22 @@ Měsíční přehledy s podrobnějšími informacemi o incidentech jsou dostupn�
 
 ### Rok/měsíc
 
-Datum ve formátu YYYY-MM, kdy byl incident nalášen
+Datum ve formátu YYYY-MM, kdy byl incident nalášen.
 
 ### Klasifikace incidentu
 
 Dle [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy) od [ENISA](https://www.enisa.europa.eu).
 
 Možné hodnoty:
-* dostupnost - např. narušení dostupnosti způsobené DoS/DDoS útokem nebo sabotáží
-* informační bezpečnost - např. neautorizovaný přístup k datům, neautorizovaná změna informace
-* podvod - např. phishing, krádež identity nebo neoprávněné využití ICT
-* pokus o průnik - např. pokus o zneužití zranitelnosti, pokus o přihlášení apod.
-* průnik - např. kompromitace aplikace nebo uživatelského účtu
-* sběr informací - např. skenování, sniffing, sociální inženýrství
-* škodlivý kód - např. virus, červ, trojský kůň, dialer, spyware
-* urážlivý obsah - např. spam, kyberšikana, nevhodný obsah
-* ostatní	
+* Dostupnost - např. narušení dostupnosti způsobené DoS/DDoS útokem nebo sabotáží.
+* Informační bezpečnost - např. neautorizovaný přístup k datům, neautorizovaná změna informace.
+* Podvod - např. phishing, krádež identity nebo neoprávněné využití ICT.
+* Pokus o průnik - např. pokus o zneužití zranitelnosti, pokus o přihlášení apod.
+* Průnik - např. kompromitace aplikace nebo uživatelského účtu.
+* Sběr informací - např. skenování, sniffing, sociální inženýrství.
+* Škodlivý kód - např. virus, červ, trojský kůň, dialer, spyware.
+* Urážlivý obsah - např. spam, kyberšikana, nevhodný obsah.
+* Ostatní
 
 ### Závažnost incidentu dle § 31 odst. 2 vyhlášky č. 82/2018 Sb. o kybernetické bezpečnosti
 
