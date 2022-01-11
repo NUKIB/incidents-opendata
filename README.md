@@ -32,3 +32,7 @@ Možné hodnoty:
 * VELMI VÝZNAMNÝ INCIDENT - incident, při kterém je přímo a významně narušena bezpečnost poskytovaných služeb nebo aktiv. Jeho řešení vyžaduje neprodlené zásahy obsluhy s tím, že musí být všemi dostupnými prostředky zabráněno dalšímu šíření kybernetického bezpečnostního incidentu včetně minimalizace vzniklých i potenciálních škod.
 * VÝZNAMNÝ INCIDENT - incident, při kterém je narušena bezpečnost poskytovaných služeb nebo aktiv. Jeho řešení vyžaduje neprodlené zásahy obsluhy s tím, že musí být vhodnými prostředky zabráněno dalšímu šíření kybernetického bezpečnostního incidentu včetně minimalizace vzniklých škod.
 * MÉNĚ VÝZNAMNÝ INCIDENT - incident, při kterém dochází k méně významnému narušení bezpečnosti poskytovaných služeb nebo aktiv. Jeho řešení vyžaduje zásahy obsluhy s tím, že musí být vhodnými prostředky omezeno další šíření kybernetického bezpečnostního incidentu včetně minimalizace vzniklých škod.
+
+## Distribuce datové sady není autorskoprávně chráněnou databází
+
+Poskytovaná distriubuce datové sady není autorskoprávně chráněnou databází ve smyslu § 2 odst. 2 a 5 zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon). Strukturu poskytované distribuce datové sady (strukturu poskytované databáze) je tak možné bez dalšího převzít a opětovně užívat.
