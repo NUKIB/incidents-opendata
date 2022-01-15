@@ -37,4 +37,4 @@ Možné hodnoty:
 
 ## Distribuce datové sady není autorskoprávně chráněnou databází
 
-Poskytovaná distriubuce datové sady není autorskoprávně chráněnou databází ve smyslu § 2 odst. 2 a 5 zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon). Strukturu poskytované distribuce datové sady (strukturu poskytované databáze) je tak možné bez dalšího převzít a opětovně užívat.
+Poskytovaná distribuce datové sady není autorskoprávně chráněnou databází ve smyslu § 2 odst. 2 a 5 zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon). Strukturu poskytované distribuce datové sady (strukturu poskytované databáze) je tak možné bez dalšího převzít a opětovně užívat.
