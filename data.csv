@@ -35,7 +35,6 @@ Rok/měsíc,Klasifikace ENISA,Závažnost
 2021-10,Dostupnost,VÝZNAMNÝ INCIDENT
 2021-10,Dostupnost,VÝZNAMNÝ INCIDENT
 2021-10,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
-2021-09,Škodlivý kód,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-10,Škodlivý kód,VÝZNAMNÝ INCIDENT
 2021-10,Dostupnost,VÝZNAMNÝ INCIDENT
 2021-10,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
@@ -50,6 +49,7 @@ Rok/měsíc,Klasifikace ENISA,Závažnost
 2021-10,Průnik,VÝZNAMNÝ INCIDENT
 2021-10,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-10,Průnik,MÉNĚ VÝZNAMNÝ INCIDENT
+2021-09,Škodlivý kód,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-09,Informační bezpečnost,VÝZNAMNÝ INCIDENT
 2021-09,Dostupnost,VÝZNAMNÝ INCIDENT
 2021-09,Škodlivý kód,MÉNĚ VÝZNAMNÝ INCIDENT
@@ -64,10 +64,10 @@ Rok/měsíc,Klasifikace ENISA,Závažnost
 2021-08,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-08,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-08,Informační bezpečnost,VELMI VÝZNAMNÝ INCIDENT
-2021-07,Informační bezpečnost,VÝZNAMNÝ INCIDENT
 2021-08,Průnik,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-08,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-08,Škodlivý kód,MÉNĚ VÝZNAMNÝ INCIDENT
+2021-07,Informační bezpečnost,VÝZNAMNÝ INCIDENT
 2021-07,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-07,Informační bezpečnost,VELMI VÝZNAMNÝ INCIDENT
 2021-07,Dostupnost,VELMI VÝZNAMNÝ INCIDENT
@@ -142,11 +142,11 @@ Rok/měsíc,Klasifikace ENISA,Závažnost
 2021-03,Průnik,VÝZNAMNÝ INCIDENT
 2021-03,Průnik,VÝZNAMNÝ INCIDENT
 2021-03,Průnik,VÝZNAMNÝ INCIDENT
-2021-01,Škodlivý kód,VÝZNAMNÝ INCIDENT
 2021-02,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-02,Dostupnost,MÉNĚ VÝZNAMNÝ INCIDENT
-2021-01,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-02,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
+2021-01,Škodlivý kód,VÝZNAMNÝ INCIDENT
+2021-01,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-01,Škodlivý kód,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-01,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
 2021-01,Podvod/phishing,MÉNĚ VÝZNAMNÝ INCIDENT
